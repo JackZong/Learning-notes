@@ -12,4 +12,4 @@ enjoy learning
 
 - [Practice](https://github.com/JackZong/Learning-notes/tree/master/Part1/Practice)
 
-  - [IOC](https://github.com/JackZong/Learning-notes/tree/master/Part1/Practice/iocdesign.md)
+  - [IOC](https://github.com/JackZong/Learning-notes/tree/master/Part1/Practice/IOC/iocdesign.md)
